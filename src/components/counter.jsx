@@ -3,7 +3,7 @@ class Counter extends Component {
   state = {
     count: 0,
     imageUrl: "https://picsum.photos/200",
-    tags: ["Product one", "Product two", "Product three", "Product more"]
+    tags: ["Product one", "Product two", "Product three", "Product more "]
   };
 
   styles = {
